@@ -1,6 +1,6 @@
 # Hello-World---BF
 
-First of all, I would like to say that this admittedly took me about 2-3 hours to write.
+First of all, I would like to say that this admittedly took me about 1-2 hours to write.
 
 Brain F*** is a langauge created by a physics student who wanted to create a language with the smallest possible compiler. Despite being a genuine brain f***, he succedded!
 
